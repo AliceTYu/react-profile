@@ -1,0 +1,23 @@
+.projectBlock{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.project {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.title{
+    text-align: center;
+    color: #fff;
+    font-size: 2.3em;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.purple{
+    color: plum;
+}

@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex: 0 0 auto;
+    padding: 1rem 0;
+    text-align: end;
+}
+
+.link{
+    cursor: pointer;
+}
