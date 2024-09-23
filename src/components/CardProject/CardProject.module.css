@@ -2,7 +2,12 @@
     border-radius: 8px;
     background: #131313;
     border: 1px solid #131313;
+    transition: border .5s ease-out;
 }
+/* 
+.card:hover{
+    border: 1px solid #ffffff;
+} */
 
 .imgFilm{
     height: 250px;
@@ -14,7 +19,7 @@
     border-radius: 8px;
     overflow: hidden;
     object-fit: cover;
-    object-position: 0 0;
+    object-position: 50% 0;
 }
 
 .block{

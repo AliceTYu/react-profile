@@ -3,9 +3,10 @@ import CardProject from './../../components/CardProject/CardProject';
 
 const ARRAY_PROJECT = [
 	{id: 1, title: 'Мой портфолио', skills: 'React(Vite), JavaScript', images: './react-profile.png', demoLink: 'https://alicetyu.github.io/react-profile/', gitLink: 'https://github.com/AliceTYu/react-profile'},
-	{id: 2, title: 'Журнал', skills: 'React(Vite), JavaScript', images: './react-journal-pay.png', demoLink: 'https://alicetyu.github.io/journal-for-me/', gitLink: 'https://github.com/AliceTYu/journal-for-me'},
-	{id: 3, title: 'Магазин', skills: 'React(Vite), TypeScript', images: './', demoLink: 'hhttps://alicetyu.github.io/shop-pizza/', gitLink: 'https://github.com/AliceTYu/shop-pizza'},
-	{id: 4, title: 'Каталог фильмов', skills: 'React(Vite), TypeScript', images: './', demoLink: '', gitLink: ''}
+	{id: 2, title: 'Крестики нолики', skills: 'React(Vite), JavaScript', images: './crossAndToe.png', demoLink: 'https://alicetyu.github.io/crossAndToe/', gitLink: 'https://github.com/AliceTYu/crossAndToe'},
+	{id: 3, title: 'Журнал', skills: 'React(Vite), JavaScript', images: './react-journal-pay.png', demoLink: 'https://alicetyu.github.io/journal-for-me/', gitLink: 'https://github.com/AliceTYu/journal-for-me'},
+	{id: 4, title: 'Магазин', skills: 'React(Vite), TypeScript', images: './', demoLink: 'hhttps://alicetyu.github.io/shop-pizza/', gitLink: 'https://github.com/AliceTYu/shop-pizza'},
+	{id: 5, title: 'Каталог фильмов', skills: 'React(Vite), TypeScript', images: './', demoLink: '', gitLink: ''}
 ];
 
 function ProjectsPage() {

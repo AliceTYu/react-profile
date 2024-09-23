@@ -23,7 +23,7 @@ function MainPage() {
 					<div className={styles.desc}>Я <span className={styles.plum}>самоучка</span> Frontend-разработчик. По больше части обучалась самостоятельно <span className={styles.plum}>HTML, CSS и JavaScript</span>.</div>
 					<div className={styles.desc}>В последний год проходила стажировку в <span className={styles.plum}>QSoft</span> по направлению Frontend-разработчик и покупала курсы у <span className={styles.plum}>PurpleSchool</span> по JavaScript и React, чтобы ментор помог с некоторыми моментами.</div>
 					<div className={styles.desc}>Работаю <span className={styles.plum}>Frontend</span>-разработчиком в системе BI уже как больше года.</div>
-					<div className={styles.desc}>Но в будущем хочу быть <span className={styles.plum}>React</span>-разработчиков. Стремлюсь к знаниям и люблю учиться. Быстро усваиваю информацию и умею гуглить.</div>
+					<div className={styles.desc}>Но в будущем хочу быть <span className={styles.plum}>React</span>-разработчиком. Стремлюсь к знаниям и люблю учиться. Быстро усваиваю информацию и умею гуглить.</div>
 				</div>
 			</div>
 			
